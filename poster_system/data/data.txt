@@ -1,17 +1,14 @@
-{
-    "data":
-        [
-            {
-                "group_id": "",
-                "add_info": ""
-            },
-            {
-                "group_id": "",
-                "add_info": "あああああ"
-            },
-            {
-                "group_id": "grp_970d4ddc-a816-4473-8259-ddc77461be18",
-                "add_info": "aaaaaa"
-            }
-        ]
-}
+[
+    {
+        "group_id": "",
+        "add_info": ""
+    },
+    {
+        "group_id": "",
+        "add_info": "あああああ"
+    },
+    {
+        "group_id": "grp_970d4ddc-a816-4473-8259-ddc77461be18",
+        "add_info": "aaaaaa"
+    }
+]
