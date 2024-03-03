@@ -1,14 +1,14 @@
 [
     {
         "group_id": "",
-        "add_info": ""
+        "add_info": "テストてすと"
     },
     {
         "group_id": "",
-        "add_info": "あああああ"
+        "add_info": "test"
     },
     {
-        "group_id": "grp_970d4ddc-a816-4473-8259-ddc77461be18",
-        "add_info": "aaaaaa"
+        "group_id": "grp_4ecd154b-acb9-4f47-8d81-ac92485247c5",
+        "add_info": "「FUJIYAMA」公式グループ"
     }
 ]
