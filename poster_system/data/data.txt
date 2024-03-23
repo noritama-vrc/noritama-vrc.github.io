@@ -1,14 +1,22 @@
 [
     {
-        "group_id": "",
-        "add_info": "テストてすと"
+        "group_id": "grp_12345678-90ab-cdef-ghij-klmnopqrstuv",
+        "add_info": "コピペさせたい文章0"
+    },
+    {
+        "group_id": "grp_12345678-90ab-cdef-ghij-klmnopqrstuv",
+        "add_info": "コピペさせたい文章1"
+    },
+    {
+        "group_id": "grp_12345678-90ab-cdef-ghij-klmnopqrstuv",
+        "add_info": ""
     },
     {
         "group_id": "",
-        "add_info": "test"
+        "add_info": "コピペさせたい文章3"
     },
     {
-        "group_id": "grp_4ecd154b-acb9-4f47-8d81-ac92485247c5",
-        "add_info": "「FUJIYAMA」公式グループ"
-    }
+        "group_id": "",
+        "add_info": ""
+    },
 ]
