@@ -1,6 +1,6 @@
 [
     {
-        "group_id": "grp_12345678-90ab-cdef-ghij-klmnopqrstuv",
+        "group_id": "grp_970d4ddc-a816-4473-8259-ddc77461be18",
         "add_info": "コピペさせたい文章0"
     },
     {
